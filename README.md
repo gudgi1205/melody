@@ -1,7 +1,7 @@
 # melody
 Учебный проект Glo Academy
 
-  #Технологии:
-    html
-    css
-    js
+  ##Технологии:
+    - html
+    - css
+    - js
